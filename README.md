@@ -14,10 +14,3 @@ This project involves the analysis of FIFA player data using Python, numpy and p
 8 Select players with skill Moves = 5.0
 9 Fetch record of Neymar Jr
 10 Check Countrywise average Ht and Wt of players.
-
-
-
-#FIFA_data-analysis
-This project involves the analysis of FIFA player data using Python, numpy and pandas. The dataset used in this project contains information about FIFA players.
-#FIFA_data-analysis
-This project involves the analysis of FIFA player data using Python, numpy and pandas. The dataset used in this project contains information about FIFA players.
